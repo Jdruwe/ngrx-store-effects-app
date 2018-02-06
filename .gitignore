@@ -30,3 +30,4 @@ vendor/*-manifest.json
 
 # Docs
 gh-pages
+db.json
