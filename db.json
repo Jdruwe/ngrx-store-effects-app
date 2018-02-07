@@ -51,12 +51,8 @@
   ],
   "pizzas": [
     {
-      "name": "Blazin' Inferno",
+      "name": "Blazin' Infern",
       "toppings": [
-        {
-          "id": 10,
-          "name": "pepperoni"
-        },
         {
           "id": 9,
           "name": "pepper"
